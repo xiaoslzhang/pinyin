@@ -1,0 +1,10 @@
+argparse
+bumpversion
+mypy
+pre-commit
+pytest
+pytest-cov
+pytest-random
+Sphinx
+tox
+wheel>=0.21
